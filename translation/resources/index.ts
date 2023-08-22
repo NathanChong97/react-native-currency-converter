@@ -1,0 +1,14 @@
+export { default as en } from "./en";
+export { default as pl } from "./pl";
+export { default as de } from "./de";
+export { default as fr } from "./fr";
+export { default as pt } from "./pt";
+export { default as es } from "./es";
+export { default as it } from "./it";
+export { default as zh } from "./zh";
+export { default as hi } from "./hi";
+export { default as uk } from "./uk";
+export { default as th } from "./th";
+export { default as ko } from "./ko";
+export { default as ja } from "./ja";
+export { default as ru } from "./ru";
